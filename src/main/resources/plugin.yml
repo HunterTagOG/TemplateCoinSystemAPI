@@ -1,0 +1,11 @@
+name: TemplateCoinSystemAPI
+version: '${project.version}'
+main: de.huntertagog.locobrokoi.TemplateCoinSystemAPI
+api-version: '1.20'
+depend: [CoinSystem]
+commands:
+  coins:
+    description: Get your Coins from API
+    usage: /coins
+    permission: coinsystem.use
+    default: op
