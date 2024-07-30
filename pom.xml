@@ -82,7 +82,7 @@
       <dependency>
           <groupId>com.github.HunterTagOG</groupId>
           <artifactId>CoinSystem</artifactId>
-          <version>v1.0.6-ALPHA</version>
+          <version>v1.0.0-BETA</version>
           <scope>provided</scope>
       </dependency>
   </dependencies>
